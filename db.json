@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Marteau Claw",
+    "brand": "ToolMaster",
+    "description": "Marteau à griffes en acier trempé avec un manche antichoc.",
+    "price": 15.99,
+    "currency": "EUR",
+    "stock": 120,
+    "category": "Outils"
+  },
+  {
+    "id": 2,
+    "name": "Tournevis Cruciforme",
+    "brand": "FixItPro",
+    "description": "Tournevis cruciforme magnétique avec poignée ergonomique.",
+    "price": 4.5,
+    "currency": "EUR",
+    "stock": 300,
+    "category": "Outils"
+  },
+  {
+    "id": 3,
+    "name": "Vis Auto-Perceuses",
+    "brand": "BuildStrong",
+    "description": "Paquet de 100 vis auto-perceuses en acier inoxydable.",
+    "price": 8.99,
+    "currency": "EUR",
+    "stock": 80,
+    "category": "Fixations"
+  },
+  {
+    "id": 4,
+    "name": "Pince Multiprise",
+    "brand": "GripPro",
+    "description": "Pince multiprise réglable avec mâchoires en acier trempé.",
+    "price": 12.75,
+    "currency": "EUR",
+    "stock": 50,
+    "category": "Outils"
+  },
+  {
+    "id": 5,
+    "name": "Perceuse Sans Fil",
+    "brand": "PowerPlus",
+    "description": "Perceuse sans fil 18V avec batterie lithium-ion.",
+    "price": 89.99,
+    "currency": "EUR",
+    "stock": 25,
+    "category": "Électroportatif"
+  },
+  {
+    "id": 6,
+    "name": "Mètre Ruban 5m",
+    "brand": "MeasureMax",
+    "description": "Mètre ruban de 5m avec boîtier antichoc et verrouillage facile.",
+    "price": 6.25,
+    "currency": "EUR",
+    "stock": 200,
+    "category": "Outils de mesure"
+  },
+  {
+    "id": 7,
+    "name": "Coffret de Douilles",
+    "brand": "SocketSet Pro",
+    "description": "Coffret de 40 douilles en acier traité avec cliquet réversible.",
+    "price": 45.0,
+    "currency": "EUR",
+    "stock": 35,
+    "category": "Outils"
+  },
+  {
+    "id": 8,
+    "name": "Scie Sauteuse",
+    "brand": "CutPro",
+    "description": "Scie sauteuse 600W avec variateur de vitesse et guide laser.",
+    "price": 59.99,
+    "currency": "EUR",
+    "stock": 40,
+    "category": "Électroportatif"
+  },
+  {
+    "id": 9,
+    "name": "Colle à Bois",
+    "brand": "GlueMaster",
+    "description": "Colle à bois extra forte pour assemblages durables.",
+    "price": 3.5,
+    "currency": "EUR",
+    "stock": 150,
+    "category": "Adhésifs"
+  },
+  {
+    "id": 10,
+    "name": "Étau d'établi",
+    "brand": "GripMax",
+    "description": "Étau d'établi robuste en fonte avec une ouverture maximale de 10 cm.",
+    "price": 29.99,
+    "currency": "EUR",
+    "stock": 60,
+    "category": "Outils de fixation"
+  }
+]
